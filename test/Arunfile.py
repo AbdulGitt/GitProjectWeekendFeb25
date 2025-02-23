@@ -1,0 +1,1 @@
+print("Arun's first day code")
